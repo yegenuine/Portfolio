@@ -12,7 +12,7 @@
 - 2023 한국보건정보통계학회 추계학술대회 대상
 - [바로가기](https://github.com/white-bean/EEG)
 
-### 03. 한강공원 방문자수 예측 프로젝트
+### 03. 공원 시설 및 지역 활성도에 따른 한강공원별 방문자 수 예측
 - 2024-1학기 '데이터마이닝' 수업 기말 프로젝트
 - 3인 팀 프로젝트
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/hangan_park)
