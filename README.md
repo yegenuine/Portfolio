@@ -4,12 +4,13 @@
 - 2024.04 - 현재
 - 개인 프로젝트
 - 성과 : 석사 학위 졸업 논문 작성
+- [바로가기](https://github.com/yegenuine/Portfolio/tree/main/EEG_GNN)
   
 ### 02. 합성 데이터 생성을 통한 정신 질환 분류의 예측 정확도 향상 연구
 - 2023.10 - 2024.03
 - 4인 팀 프로젝트
 - 성과 : 한국보건정보통계학회 추계학술대회 대상
-- [바로가기](https://github.com/yegenuine/Portfolio/tree/main/EEG_GNN)
+- [바로가기](https://github.com/white-bean/EEG)
 
 ### 03. 한강공원 방문자수 예측 프로젝트
 - 2024-1학기 '데이터마이닝' 수업 기말 프로젝트
