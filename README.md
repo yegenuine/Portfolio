@@ -26,7 +26,9 @@
 - 2023.07~2023.08
 - 3인 팀 프로젝트
 - 최종 순위 59위 (상위 5%)
+- [바로가기](https://github.com/yegenuine/Portfolio/tree/main/power_consum)
 
 ### 06. 음원 차트 순위 예측 프로젝트
 - 2022.07~2022.08
 - 4인 팀 프로젝트
+- [바로가기](https://github.com/yegenuine/Portfolio/tree/main/music_chart)
