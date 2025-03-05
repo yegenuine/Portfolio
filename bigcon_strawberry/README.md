@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; margin: 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/e501cbac-831e-4e46-bade-d41f0da3157c" width="49%">
   <img src="https://github.com/user-attachments/assets/67c8b768-d4b2-443c-bf9b-2a8d16495105" width="49%">
   <img src="https://github.com/user-attachments/assets/e5d7a45f-8615-4aeb-aff8-90148104b498" width="49%">
