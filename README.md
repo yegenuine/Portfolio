@@ -20,6 +20,7 @@
 ### 04. 2023 빅콘테스트 - 딸기 생육 예측 모델 개발
 - 2023.08~2023.09
 - 4인 팀 프로젝트
+- [바로가기](https://github.com/yegenuine/Portfolio/tree/main/bigcon_strawberry)
 
 ### 05. 2023 전력사용량 예측 AI 경진대회
 - 2023.07~2023.08
