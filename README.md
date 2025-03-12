@@ -1,4 +1,5 @@
 # PORTFOLIO
+[포트폴리오.pdf](https://github.com/user-attachments/files/19202159/default.pdf)
 
 ### 01. 합성 데이터 생성을 통한 정신 질환 분류의 예측 정확도 향상 연구
 - 2023.10 - 2024.03
