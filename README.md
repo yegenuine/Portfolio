@@ -7,7 +7,7 @@
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/EEG_CNN)
 
 ### 02. 그래프 신경망(GNN)을 활용한 뇌파 데이터 분석
-- 2024.04 - 2023.11
+- 2024.04 - 2024.11
 - 개인 프로젝트
 - 석사 학위 졸업 논문 작성
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/EEG_GNN)
