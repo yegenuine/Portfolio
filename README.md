@@ -15,12 +15,12 @@
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/EEG_GNN)
 
 ### 03. LG Aimers 6기 - 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤
-- 2025.01~진행중
+- 2025.01 - 2025.04
 - 5인 팀 프로젝트 (고경준, 김예진, 나영은, 이수민, 정서윤)
 - 우수상 (3위)
 
 ### 04. 2023 전력사용량 예측 AI 경진대회 - 전력 소비 패턴에 따른 군집별 전력 사용량 예측
-- 2023.07~2023.08
+- 2023.07 - 2023.08
 - 3인 팀 프로젝트 (김솔, 김예진, 박지애)
 - 최종 순위 59위 (상위 5%)
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/power_consum)
@@ -31,6 +31,6 @@
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/hangan_park)
 
 ### 06. 음원 차트 순위 예측 프로젝트
-- 2022.07~2022.08
+- 2022.07 - 2022.08
 - 4인 팀 프로젝트 (김예진, 박보영, 박지운, 이서영)
 - [바로가기](https://github.com/yegenuine/Portfolio/tree/main/music_chart)
