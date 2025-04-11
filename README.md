@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-[포트폴리오 PDF로 확인하기](https://drive.google.com/file/d/1AT2Xumsr4pk5F6sZYD4WyNnzE0p0am5w/view?usp=drive_link)
+[포트폴리오 PDF로 확인하기](https://drive.google.com/file/d/1q_L1POODht4lnbMtRfpBNuXb2iaDt7YQ/view?usp=drive_link)
 
 ### 01. 합성 데이터 생성을 통한 정신 질환 분류의 예측 정확도 향상 연구
 - 2023.10 - 2024.03
